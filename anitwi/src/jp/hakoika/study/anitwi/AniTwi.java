@@ -1,3 +1,4 @@
+package jp.hakoika.study.anitwi;
 import java.util.List;
 
 import twitter4j.DirectMessage;
