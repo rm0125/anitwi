@@ -39,8 +39,6 @@ public class HttpClient {
 				xmlString = xmlString + line + "\n";
 			}
 
-			System.out.println(xmlString);
-
 			reader.close();
 			con.disconnect();
 
