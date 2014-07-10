@@ -8,7 +8,7 @@ import jp.hakoika.study.anitwi.client.HttpClient;
 
 import org.w3c.dom.Document;
 
-public class AnitwiMail {
+public class AnitwiMain {
 
 	/**
 	 * @param args
